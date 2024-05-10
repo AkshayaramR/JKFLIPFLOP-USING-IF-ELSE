@@ -51,8 +51,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
 
-Developed by :Abinaya A
-Reg no:212223040003
+Developed by :Akshaya R
+Reg no:212223220005
 
 
 ```
